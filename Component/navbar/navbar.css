@@ -1,0 +1,19 @@
+.navbar{
+   display: flex; 
+   justify-content: space-around;
+   align-items: center;
+}
+.nav-logo{
+   width: 6rem;
+   height: 6rem;
+}
+.nav-menu{
+   list-style: none;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.nav-menu li{
+  color: blue;
+  background-color: aquamarine;
+}
