@@ -10,6 +10,7 @@
 }
 .explore h1{
     text-transform: uppercase;
+    color: black;
 }
 .explore-container{
     display: flex;
